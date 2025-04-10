@@ -1,0 +1,51 @@
+name ,country,year of enrolment,test_%,exam,total_score,duration,% annual_chng_in_test,%_annual_chng_in_exam,%_annual_chng_in_score,no change,improved,declined
+Adesewa,Nigeria,2012,50,6,19.2,2,,34.5,,,Improved,
+Adesewa,Nigeria,2014,null,75,null,,,,,,,
+Andiswa,Egypt,2012,46,8,19.4,2,-0.5,35,24.35,,Improved,
+Andiswa,Egypt,2014,45,78,68.1,,,,,,,
+Benjamin,South Africa,2011,89,52,63.1,2,-14.5,-10.5,-11.7,,,declined
+Benjamin,South Africa,2013,60,31,39.7,,,,,,,
+Bodine,South Africa,2011,81,84,83.1,4,0,2.5,1.75,,Improved,
+Bodine,South Africa,2015,81,94,90.1,,,,,,,
+Buhari,Morocco,2013,18,76,58.6,2,28,-15,-2.1,,,declined
+Buhari,Morocco,2015,74,46,54.4,,,,,,,
+Byron,South Africa,2011,75,75,75,3,6,-15.66666667,-9.166666667,,,declined
+Byron,South Africa,2014,93,28,47.5,,,,,,,
+Chukwudi,Kenya,2011,27,15,18.6,2,16,20.5,19.15,,Improved,
+Chukwudi,Kenya,2013,59,56,56.9,,,,,,,
+David,Rwanda,2013,40,20,26,1,-15,1,-3.8,,,declined
+David,Rwanda,2014,25,21,22.2,,,,,,,
+Edmund,Ghana,2011,23,43,45.1,2,-3,-12.5,-8.75,,,declined
+Edmund,Ghana,2013,17,18,27.6,,,,,,,
+James,Morocco,2012,75,0,22.5,1,,61,,,Improved,
+James,Morocco,2013,null,61,null,,,,,,,
+Julius,South Africa,2013,25,95,74,1,41,-88,-49.3,,,declined
+Julius,South Africa,2014,66,7,24.7,,,,,,,
+Kayode,Nigeria,2011,22,60,48.6,3,7,10,9.1,,Improved,
+Kayode,Nigeria,2014,43,90,75.9,,,,,,,
+Mark,Kenya,2014,60,21,null,1,-7,51,,,Improved,
+Mark,Kenya,2015,53,72,66.3,,,,,,,
+Maryam,Nigeria,2012,46,82,71.2,3,-4.666666667,3.666666667,1.166666667,,Improved,
+Maryam,Nigeria,2015,32,93,74.7,,,,,,,
+Matlhogonolo ,Kenya,2011,21,58,46.9,1,43,5,16.4,,Improved,
+Matlhogonolo ,Kenya,2012,64,63,63.3,,,,,,,
+Max,Nigeria,2013,56,51,52.5,2,-5,10.5,5.85,,Improved,
+Max,Nigeria,2015,46,72,64.2,,,,,,,
+Mbali,Rwanda,2013,15,17,16.4,2,40,4,14.8,,Improved,
+Mbali,Rwanda,2015,95,25,46,,,,,,,
+Mercy,Kenya,2013,43,64,57.7,2,-5,10.5,5.85,,Improved,
+Mercy,Kenya,2015,33,85,69.4,,,,,,,
+Mukelwe,Egypt,2011,23,4,9.7,4,13,20,17.9,,Improved,
+Mukelwe,Egypt,2015,75,84,81.3,,,,,,,
+Munesu,South Africa,2012,0,3,2.1,1,16,74,56.6,,Improved,
+Munesu,South Africa,2013,16,77,58.7,,,,,,,
+Nolwazi,Egypt,2011,88,28,46,3,-8.666666667,11.66666667,5.566666667,,Improved,
+Nolwazi,Egypt,2014,62,63,62.7,,,,,,,
+Oludare,Nigeria,2012,74,82,79.6,3,-4.333333333,-26,-19.5,,,declined
+Oludare,Nigeria,2015,61,4,21.1,,,,,,,
+Peter,Kenya,2012,93,38,54.5,2,-10.5,29,17.15,,Improved,
+Peter,Kenya,2014,72,96,88.8,,,,,,,
+Philile,Morocco,2011,65,60,61.5,1,-14,-57,-44.1,,,declined
+Philile,Morocco,2012,51,3,17.4,,,,,,,
+Ubasinachi,Nigeria,2012,39,32,34.1,2,0,31,21.7,,Improved,
+Ubasinachi,Nigeria,2014,39,94,77.5,,,,,,,
